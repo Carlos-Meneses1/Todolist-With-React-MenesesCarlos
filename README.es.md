@@ -1,5 +1,5 @@
 
-## ¿Cómo comenzar a codificar?
+## ¿Cómo comenzar?
 
 - Instala los paquetes con `$ npm install`.
 - Ejecuta el servidor de webpack con `$ npm run start`.
